@@ -1,0 +1,179 @@
+{
+  "galaxies": [
+    {
+      "id": "marketing-ops",
+      "name": "Marketing Operations",
+      "icon": "🌌",
+      "color": "#8b5cf6",
+      "totalSkills": 818,
+      "completedSkills": 0,
+      "inProgressSkills": 0,
+      "constellationCount": 16,
+      "description": "Complete marketing operations expertise across 16 specialized domains"
+    }
+  ],
+  "constellations": {
+    "marketing-ops": [
+      {
+        "id": 1,
+        "name": "Email Operations",
+        "icon": "📧",
+        "color": "#3b82f6",
+        "totalSkills": 50,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for email operations"
+      },
+      {
+        "id": 2,
+        "name": "Automation & Integration",
+        "icon": "🔧",
+        "color": "#8b5cf6",
+        "totalSkills": 51,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for automation & integration"
+      },
+      {
+        "id": 3,
+        "name": "Marketing Analytics & Measurement",
+        "icon": "📊",
+        "color": "#10b981",
+        "totalSkills": 44,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for marketing analytics & measurement"
+      },
+      {
+        "id": 4,
+        "name": "Data Management & Infrastructure",
+        "icon": "💾",
+        "color": "#06b6d4",
+        "totalSkills": 42,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for data management & infrastructure"
+      },
+      {
+        "id": 5,
+        "name": "AI & Innovation",
+        "icon": "🤖",
+        "color": "#ec4899",
+        "totalSkills": 52,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for ai & innovation"
+      },
+      {
+        "id": 6,
+        "name": "Campaign Operations",
+        "icon": "🎯",
+        "color": "#f59e0b",
+        "totalSkills": 59,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for campaign operations"
+      },
+      {
+        "id": 7,
+        "name": "Demand Generation Operations",
+        "icon": "🚀",
+        "color": "#ef4444",
+        "totalSkills": 36,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for demand generation operations"
+      },
+      {
+        "id": 8,
+        "name": "Lead Management",
+        "icon": "💼",
+        "color": "#14b8a6",
+        "totalSkills": 54,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for lead management"
+      },
+      {
+        "id": 9,
+        "name": "Platform Mastery",
+        "icon": "🏗️",
+        "color": "#6366f1",
+        "totalSkills": 91,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for platform mastery"
+      },
+      {
+        "id": 10,
+        "name": "Technical Skills",
+        "icon": "💻",
+        "color": "#8b5cf6",
+        "totalSkills": 50,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for technical skills"
+      },
+      {
+        "id": 11,
+        "name": "Process & Strategy",
+        "icon": "📋",
+        "color": "#059669",
+        "totalSkills": 66,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for process & strategy"
+      },
+      {
+        "id": 12,
+        "name": "Compliance & Governance",
+        "icon": "🔒",
+        "color": "#dc2626",
+        "totalSkills": 44,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for compliance & governance"
+      },
+      {
+        "id": 13,
+        "name": "Revenue Operations",
+        "icon": "💰",
+        "color": "#facc15",
+        "totalSkills": 47,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for revenue operations"
+      },
+      {
+        "id": 14,
+        "name": "Content Operations",
+        "icon": "🎨",
+        "color": "#f97316",
+        "totalSkills": 53,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for content operations"
+      },
+      {
+        "id": 15,
+        "name": "Marketing Technology Management",
+        "icon": "🛠️",
+        "color": "#a855f7",
+        "totalSkills": 42,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for marketing technology management"
+      },
+      {
+        "id": 16,
+        "name": "Performance Marketing Operations",
+        "icon": "💳",
+        "color": "#0ea5e9",
+        "totalSkills": 37,
+        "completedSkills": 0,
+        "inProgressSkills": 0,
+        "description": "Skills for performance marketing operations"
+      }
+    ]
+  }
+}

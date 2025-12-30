@@ -1,0 +1,5054 @@
+{
+  "1": {
+    "_constellation": "Email Operations",
+    "foundation": [
+      {
+        "id": 1,
+        "name": "Email marketing fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 2,
+        "name": "Email platform basics (ESP interface navigation)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 3,
+        "name": "Basic email design principles",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 4,
+        "name": "Email copywriting basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 5,
+        "name": "CAN-SPAM compliance basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 6,
+        "name": "List management fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 7,
+        "name": "Contact import and export",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 8,
+        "name": "Unsubscribe management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 9,
+        "name": "Email authentication (SPF records)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 10,
+        "name": "Email authentication (DKIM)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 11,
+        "name": "Email authentication (DMARC)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 12,
+        "name": "BIMI (Brand Indicators for Message Identification)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 13,
+        "name": "Sender reputation management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 14,
+        "name": "Email deliverability monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 15,
+        "name": "Inbox placement testing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 16,
+        "name": "Spam filter testing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 17,
+        "name": "IP warming strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 18,
+        "name": "Dedicated IP vs shared IP strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 19,
+        "name": "Subdomain strategy for email",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 20,
+        "name": "HTML email structure",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 21,
+        "name": "CSS for email (inline styles)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 22,
+        "name": "Responsive email design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 23,
+        "name": "Dark mode email design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 24,
+        "name": "Email accessibility (WCAG)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 25,
+        "name": "Dynamic content in emails",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 26,
+        "name": "Personalization tokens and merge tags",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 27,
+        "name": "A/B testing for subject lines",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 28,
+        "name": "A/B testing for email content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 29,
+        "name": "A/B testing for send times",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 30,
+        "name": "Segmentation for email campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 31,
+        "name": "Email automation triggers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 32,
+        "name": "Drip campaign design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 33,
+        "name": "Re-engagement campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 34,
+        "name": "Win-back campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 35,
+        "name": "Email preference centers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 36,
+        "name": "Subscription management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 37,
+        "name": "Unsubscribe flow optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 38,
+        "name": "Transactional email operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 39,
+        "name": "Email rendering across clients (troubleshooting)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 40,
+        "name": "Advanced deliverability troubleshooting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 41,
+        "name": "ISP feedback loops",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 42,
+        "name": "Bounce management and classification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 43,
+        "name": "List hygiene automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 44,
+        "name": "Engagement-based suppression",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 45,
+        "name": "Sunset policies for inactive subscribers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 46,
+        "name": "Advanced dynamic content logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 47,
+        "name": "AMP for email",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 48,
+        "name": "Interactive email elements",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 49,
+        "name": "Behavioral email triggers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 50,
+        "name": "Predictive send time optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "2": {
+    "_constellation": "Automation & Integration",
+    "foundation": [
+      {
+        "id": 51,
+        "name": "Automation concepts and logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 52,
+        "name": "Trigger-action basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 53,
+        "name": "Zapier interface and setup",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 54,
+        "name": "Basic Zapier workflows (2-3 steps)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 55,
+        "name": "Understanding webhooks (concept)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 56,
+        "name": "Native platform automation basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 57,
+        "name": "Workflow documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 58,
+        "name": "Zapier multi-step workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 59,
+        "name": "Zapier filters and conditional logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 60,
+        "name": "Zapier formatters and transformations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 61,
+        "name": "Zapier paths (branching logic)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 62,
+        "name": "Zapier error handling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 63,
+        "name": "Zapier custom webhook triggers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 64,
+        "name": "Make (Integromat) basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 65,
+        "name": "Make routers and filters",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 66,
+        "name": "Make data structure manipulation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 67,
+        "name": "Make error handling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 68,
+        "name": "Native HubSpot workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 69,
+        "name": "HubSpot workflow branching logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 70,
+        "name": "HubSpot workflow goal settings",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 71,
+        "name": "HubSpot workflow re-enrollment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 72,
+        "name": "Salesforce Flow Builder basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 73,
+        "name": "Salesforce Process Builder",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 74,
+        "name": "API concepts and REST APIs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 75,
+        "name": "JSON data format understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 76,
+        "name": "API authentication basics (API keys)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 77,
+        "name": "Reading API documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 78,
+        "name": "Webhook payload understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 79,
+        "name": "Testing webhooks (tools like RequestBin)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 80,
+        "name": "Make (Integromat) advanced scenarios",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 81,
+        "name": "Make custom apps and connections",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 82,
+        "name": "n8n workflow automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 83,
+        "name": "Workato or Tray.io (enterprise iPaaS)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 84,
+        "name": "OAuth authentication flows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 85,
+        "name": "API rate limiting and handling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 86,
+        "name": "Building custom API integrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 87,
+        "name": "Middleware architecture",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 88,
+        "name": "Real-time data sync design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 89,
+        "name": "Batch processing vs real-time logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 90,
+        "name": "Data mapping and transformation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 91,
+        "name": "Error logging and monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 92,
+        "name": "Automation scalability planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 93,
+        "name": "Complex multi-platform orchestration",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 94,
+        "name": "Event-driven architecture concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 95,
+        "name": "Idempotency in integrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 96,
+        "name": "Data consistency across systems",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 97,
+        "name": "Building custom workflow engines",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 98,
+        "name": "Integration monitoring and maintenance",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 99,
+        "name": "Data flow documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 100,
+        "name": "Integration security best practices",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 101,
+        "name": "Disaster recovery for integrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "3": {
+    "_constellation": "Marketing Analytics & Measurement",
+    "foundation": [
+      {
+        "id": 102,
+        "name": "Marketing metrics fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 103,
+        "name": "KPI identification and definition",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 104,
+        "name": "Campaign performance metrics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 105,
+        "name": "Funnel metrics and stages",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 106,
+        "name": "Conversion rate basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 107,
+        "name": "Google Analytics basics (GA4)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 108,
+        "name": "UTM parameter strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 109,
+        "name": "Basic reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 110,
+        "name": "Report building in native platforms",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 111,
+        "name": "Google Analytics 4 advanced",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 112,
+        "name": "GA4 event tracking and custom events",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 113,
+        "name": "GA4 conversion tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 114,
+        "name": "GA4 custom dimensions and metrics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 115,
+        "name": "Cross-domain tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 116,
+        "name": "Marketing attribution concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 117,
+        "name": "First-touch attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 118,
+        "name": "Last-touch attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 119,
+        "name": "Linear attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 120,
+        "name": "Time-decay attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 121,
+        "name": "Position-based attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 122,
+        "name": "A/B testing methodology",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 123,
+        "name": "Statistical significance understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 124,
+        "name": "Sample size calculation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 125,
+        "name": "Test duration planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 126,
+        "name": "Multivariate testing concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 127,
+        "name": "Incremental lift testing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 128,
+        "name": "Holdout group testing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 129,
+        "name": "Dashboard design principles",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 130,
+        "name": "Data visualization best practices",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 131,
+        "name": "Executive reporting and storytelling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 132,
+        "name": "Marketing performance scorecards",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 133,
+        "name": "Multi-touch attribution modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 134,
+        "name": "Custom attribution model design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 135,
+        "name": "Data-driven attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 136,
+        "name": "Marketing mix modeling (MMM)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 137,
+        "name": "Media mix modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 138,
+        "name": "Incrementality testing and measurement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 139,
+        "name": "Econometric modeling for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 140,
+        "name": "Customer journey analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 141,
+        "name": "Funnel optimization analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 142,
+        "name": "Cohort analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 143,
+        "name": "Retention analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 144,
+        "name": "LTV (Lifetime Value) analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 145,
+        "name": "Predictive analytics for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "4": {
+    "_constellation": "Data Management & Infrastructure",
+    "foundation": [
+      {
+        "id": 146,
+        "name": "Data concepts and terminology",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 147,
+        "name": "Database basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 148,
+        "name": "Spreadsheet advanced skills (formulas pivot tables)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 149,
+        "name": "Data hygiene concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 150,
+        "name": "Data accuracy and completeness",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 151,
+        "name": "Contact/lead record management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 152,
+        "name": "Understanding data relationships",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 153,
+        "name": "SQL fundamentals (SELECT WHERE)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 154,
+        "name": "SQL JOINs (INNER LEFT RIGHT OUTER)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 155,
+        "name": "SQL aggregate functions (SUM COUNT AVG)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 156,
+        "name": "SQL GROUP BY and HAVING",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 157,
+        "name": "Data cleaning techniques",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 158,
+        "name": "Duplicate detection and management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 159,
+        "name": "Data standardization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 160,
+        "name": "Data validation rules",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 161,
+        "name": "Data enrichment basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 162,
+        "name": "Third-party data sources",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 163,
+        "name": "Data append services",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 164,
+        "name": "Master data management concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 165,
+        "name": "Golden record creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 166,
+        "name": "Regular expressions (regex) for data",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 167,
+        "name": "Data profiling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 168,
+        "name": "Data warehousing concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 169,
+        "name": "ETL (Extract Transform Load) processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 170,
+        "name": "ELT (Extract Load Transform) processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 171,
+        "name": "Data pipeline design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 172,
+        "name": "SQL advanced (subqueries window functions CTEs)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 173,
+        "name": "SQL optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 174,
+        "name": "Data modeling fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 175,
+        "name": "Star schema design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 176,
+        "name": "Dimensional modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 177,
+        "name": "Data lake concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 178,
+        "name": "Customer Data Platform (CDP) strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 179,
+        "name": "CDP implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 180,
+        "name": "Identity resolution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 181,
+        "name": "Cross-device identity matching",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 182,
+        "name": "Data governance frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 183,
+        "name": "Data quality monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 184,
+        "name": "Data lineage tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 185,
+        "name": "Data cataloging",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 186,
+        "name": "Metadata management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 187,
+        "name": "Data dictionary creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "5": {
+    "_constellation": "AI & Innovation",
+    "foundation": [
+      {
+        "id": 188,
+        "name": "AI fundamentals for marketers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 189,
+        "name": "Understanding LLMs (Large Language Models)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 190,
+        "name": "Prompt writing basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 191,
+        "name": "Using ChatGPT/Claude for marketing tasks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 192,
+        "name": "AI content generation basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 193,
+        "name": "AI for brainstorming and ideation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 194,
+        "name": "AI ethics awareness",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 195,
+        "name": "Advanced prompt engineering",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 196,
+        "name": "Prompt templates and libraries",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 197,
+        "name": "Chain-of-thought prompting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 198,
+        "name": "Few-shot prompting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 199,
+        "name": "Prompt iteration and refinement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 200,
+        "name": "AI for content editing and refinement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 201,
+        "name": "AI for email copywriting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 202,
+        "name": "AI for social media content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 203,
+        "name": "AI for data analysis and insights",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 204,
+        "name": "AI for audience segmentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 205,
+        "name": "AI for personalization strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 206,
+        "name": "AI image generation (Midjourney DALL-E)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 207,
+        "name": "AI image prompting techniques",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 208,
+        "name": "AI tool evaluation framework",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 209,
+        "name": "AI workflow design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 210,
+        "name": "AI for marketing research",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 211,
+        "name": "AI for competitive analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 212,
+        "name": "Custom GPTs/Claude Projects creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 213,
+        "name": "AI for SEO optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 214,
+        "name": "Claude API basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 215,
+        "name": "OpenAI API basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 216,
+        "name": "API authentication for AI services",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 217,
+        "name": "Building AI-powered workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 218,
+        "name": "AI function calling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 219,
+        "name": "AI with structured outputs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 220,
+        "name": "Retrieval Augmented Generation (RAG)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 221,
+        "name": "Vector databases for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 222,
+        "name": "Fine-tuning AI models (concept)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 223,
+        "name": "AI model evaluation for marketing use cases",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 224,
+        "name": "Building custom AI tools",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 225,
+        "name": "AI for predictive analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 226,
+        "name": "AI for dynamic content generation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 227,
+        "name": "AI for conversation intelligence",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 228,
+        "name": "AI chatbot development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 229,
+        "name": "AI governance and policy development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 230,
+        "name": "AI risk assessment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 231,
+        "name": "Responsible AI practices",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 232,
+        "name": "AI ROI measurement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 233,
+        "name": "AI strategy and roadmapping",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 234,
+        "name": "AI change management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 235,
+        "name": "AI training and enablement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 236,
+        "name": "AI vendor evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 237,
+        "name": "AI pilot program management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 238,
+        "name": "AI training data management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 239,
+        "name": "Conversational AI/chatbot operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "6": {
+    "_constellation": "Campaign Operations",
+    "foundation": [
+      {
+        "id": 240,
+        "name": "Campaign planning fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 241,
+        "name": "Campaign brief creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 242,
+        "name": "Marketing calendar management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 243,
+        "name": "Asset organization and management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 244,
+        "name": "Campaign checklist creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 245,
+        "name": "Basic project management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 246,
+        "name": "Stakeholder communication",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 247,
+        "name": "Campaign kickoff meetings",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 248,
+        "name": "Campaign goal setting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 249,
+        "name": "Multi-channel campaign orchestration",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 250,
+        "name": "Campaign timeline development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 251,
+        "name": "Critical path identification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 252,
+        "name": "Resource allocation for campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 253,
+        "name": "Cross-functional team coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 254,
+        "name": "Landing page creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 255,
+        "name": "Landing page A/B testing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 256,
+        "name": "Landing page personalization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 257,
+        "name": "Form strategy and design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 258,
+        "name": "Progressive profiling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 259,
+        "name": "Hidden form fields",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 260,
+        "name": "Form analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 261,
+        "name": "Thank you page optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 262,
+        "name": "Campaign tracking setup (UTMs)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 263,
+        "name": "Campaign URL structure",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 264,
+        "name": "Conversion tracking implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 265,
+        "name": "Campaign performance dashboards",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 266,
+        "name": "Post-campaign analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 267,
+        "name": "Campaign retrospectives",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 268,
+        "name": "Campaign reporting to stakeholders",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 269,
+        "name": "Budget tracking for campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 270,
+        "name": "Spend pacing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 271,
+        "name": "Vendor coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 272,
+        "name": "Creative brief development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 273,
+        "name": "Campaign approval workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 274,
+        "name": "Content calendar management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 275,
+        "name": "Social media campaign coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 276,
+        "name": "Paid media campaign setup (basics)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 277,
+        "name": "Campaign naming conventions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 278,
+        "name": "Campaign taxonomy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 279,
+        "name": "Asset version control",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 280,
+        "name": "Campaign asset production coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 281,
+        "name": "Campaign legal review coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 282,
+        "name": "Campaign localization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 283,
+        "name": "Integrated campaign strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 284,
+        "name": "Campaign architecture design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 285,
+        "name": "Multi-touch campaign attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 286,
+        "name": "Campaign performance optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 287,
+        "name": "Marketing experimentation framework",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 288,
+        "name": "Campaign ROI modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 289,
+        "name": "Budget optimization across channels",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 290,
+        "name": "Marketing mix modeling for campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 291,
+        "name": "Campaign scaling strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 292,
+        "name": "Dynamic campaign personalization at scale",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 293,
+        "name": "Real-time campaign optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 294,
+        "name": "Campaign automation at scale",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 295,
+        "name": "Cross-functional campaign leadership",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 296,
+        "name": "Campaign governance frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 297,
+        "name": "Complex campaign troubleshooting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 298,
+        "name": "Campaign portfolio management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "7": {
+    "_constellation": "Demand Generation Operations",
+    "foundation": [
+      {
+        "id": 299,
+        "name": "Demand generation fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 300,
+        "name": "Lead generation vs demand generation concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 301,
+        "name": "Demand waterfall model",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 302,
+        "name": "Demand gen metrics and KPIs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 303,
+        "name": "Lead source taxonomy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 304,
+        "name": "Campaign to pipeline tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 305,
+        "name": "Webinar operations and automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 306,
+        "name": "Webinar platform management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 307,
+        "name": "Webinar follow-up automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 308,
+        "name": "Content syndication operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 309,
+        "name": "Content syndication vendor management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 310,
+        "name": "Gated content operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 311,
+        "name": "Event marketing operations (virtual)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 312,
+        "name": "Event marketing operations (in-person)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 313,
+        "name": "Event registration and tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 314,
+        "name": "Partner/channel marketing operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 315,
+        "name": "Co-marketing campaign operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 316,
+        "name": "Referral program operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 317,
+        "name": "Inbound marketing operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 318,
+        "name": "SEO and organic operations (basic)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 319,
+        "name": "Conversion rate optimization operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 320,
+        "name": "Landing page testing programs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 321,
+        "name": "Form optimization programs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 322,
+        "name": "Demo request management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 323,
+        "name": "Trial user management operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 324,
+        "name": "ABM (Account-Based Marketing) operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 325,
+        "name": "Target account list management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 326,
+        "name": "Account engagement scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 327,
+        "name": "Intent data integration and operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 328,
+        "name": "Demand unit economics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 329,
+        "name": "Pipeline velocity analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 330,
+        "name": "Pipeline coverage analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 331,
+        "name": "Demand gen forecasting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 332,
+        "name": "Lead-to-pipeline conversion optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 333,
+        "name": "Multi-touch demand programs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 334,
+        "name": "Demand gen program ROI modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "8": {
+    "_constellation": "Lead Management",
+    "foundation": [
+      {
+        "id": 335,
+        "name": "Lead lifecycle fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 336,
+        "name": "Lead stages and definitions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 337,
+        "name": "Contact properties and fields",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 338,
+        "name": "List creation (static lists)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 339,
+        "name": "Basic contact segmentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 340,
+        "name": "Lead source tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 341,
+        "name": "Contact record management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 342,
+        "name": "Smart lists/dynamic lists",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 343,
+        "name": "Advanced segmentation logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 344,
+        "name": "Lead scoring concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 345,
+        "name": "Lead scoring model design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 346,
+        "name": "Demographic scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 347,
+        "name": "Behavioral scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 348,
+        "name": "Negative scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 349,
+        "name": "Lead scoring thresholds",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 350,
+        "name": "MQL (Marketing Qualified Lead) definition",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 351,
+        "name": "SQL (Sales Qualified Lead) definition",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 352,
+        "name": "Lead qualification frameworks (BANT MEDDIC)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 353,
+        "name": "Lead routing rules",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 354,
+        "name": "Round-robin assignment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 355,
+        "name": "Territory-based routing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 356,
+        "name": "Lead assignment automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 357,
+        "name": "Lead nurturing strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 358,
+        "name": "Nurture track design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 359,
+        "name": "Re-engagement campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 360,
+        "name": "Lead recycling processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 361,
+        "name": "Database hygiene practices",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 362,
+        "name": "Duplicate management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 363,
+        "name": "Data enrichment basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 364,
+        "name": "Progressive profiling strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 365,
+        "name": "Predictive lead scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 366,
+        "name": "Machine learning for lead scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 367,
+        "name": "Complex lead routing logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 368,
+        "name": "Multi-touch lead nurturing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 369,
+        "name": "Account-based lead management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 370,
+        "name": "Lead-to-account matching",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 371,
+        "name": "Buying group identification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 372,
+        "name": "Lead velocity optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 373,
+        "name": "Conversion rate optimization (MQL to SQL)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 374,
+        "name": "Lead quality analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 375,
+        "name": "Lead source ROI analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 376,
+        "name": "Database segmentation at scale",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 377,
+        "name": "Data append and enrichment (tools)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 378,
+        "name": "Intent data integration",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 379,
+        "name": "Lead decay modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 380,
+        "name": "Lead lifecycle reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 381,
+        "name": "Funnel optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 382,
+        "name": "Lead management SLAs",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 383,
+        "name": "Sales-marketing handoff optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 384,
+        "name": "Lead feedback loops",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 385,
+        "name": "Lead data quality monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 386,
+        "name": "Lead response time tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 387,
+        "name": "Lead SLA enforcement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 388,
+        "name": "Anonymous visitor tracking and conversion",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "9": {
+    "_constellation": "Platform Mastery",
+    "foundation": [
+      {
+        "id": 389,
+        "name": "HubSpot CRM basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 390,
+        "name": "Contact management in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 391,
+        "name": "Company records in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 392,
+        "name": "Deal pipeline basics in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 393,
+        "name": "Tasks and activities in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 394,
+        "name": "HubSpot navigation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 395,
+        "name": "User management basics in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 396,
+        "name": "HubSpot mobile app",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 397,
+        "name": "Salesforce navigation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 398,
+        "name": "Objects and records in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 399,
+        "name": "Accounts in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 400,
+        "name": "Contacts in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 401,
+        "name": "Leads in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 402,
+        "name": "Opportunities in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 403,
+        "name": "Reports basics in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 404,
+        "name": "Dashboards basics in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 405,
+        "name": "Custom properties in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 406,
+        "name": "Property groups in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 407,
+        "name": "Calculated properties in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 408,
+        "name": "Lifecycle stages configuration in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 409,
+        "name": "Deal stages customization in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 410,
+        "name": "Custom pipelines in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 411,
+        "name": "Lists in HubSpot (static and active)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 412,
+        "name": "Workflows in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 413,
+        "name": "Sequences in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 414,
+        "name": "Templates in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 415,
+        "name": "Snippets in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 416,
+        "name": "Documents in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 417,
+        "name": "Playbooks in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 418,
+        "name": "Quotes in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 419,
+        "name": "HubSpot reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 420,
+        "name": "Custom reports in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 421,
+        "name": "Dashboards in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 422,
+        "name": "Attribution reports in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 423,
+        "name": "HubSpot App Marketplace integrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 424,
+        "name": "Custom fields in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 425,
+        "name": "Validation rules in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 426,
+        "name": "Record types in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 427,
+        "name": "Page layouts in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 428,
+        "name": "List views in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 429,
+        "name": "Report builder in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 430,
+        "name": "Report types in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 431,
+        "name": "Dashboard components in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 432,
+        "name": "Campaigns in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 433,
+        "name": "Campaign hierarchy in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 434,
+        "name": "Campaign influence in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 435,
+        "name": "Process Builder in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 436,
+        "name": "Flow Builder in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 437,
+        "name": "HubSpot API",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 438,
+        "name": "Custom coded workflows in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 439,
+        "name": "Custom objects in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 440,
+        "name": "HubSpot Operations Hub features",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 441,
+        "name": "Data sync in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 442,
+        "name": "Programmable automation in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 443,
+        "name": "Webhooks in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 444,
+        "name": "Custom integrations for HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 445,
+        "name": "HubSpot CMS",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 446,
+        "name": "HubDB",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 447,
+        "name": "HubSpot migrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 448,
+        "name": "Multi-portal management in HubSpot",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 449,
+        "name": "HubSpot optimization strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 450,
+        "name": "Apex basics (for MOps)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 451,
+        "name": "Visualforce basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 452,
+        "name": "Lightning components",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 453,
+        "name": "Salesforce API",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 454,
+        "name": "Data loader in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 455,
+        "name": "Salesforce integrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 456,
+        "name": "AppExchange apps",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 457,
+        "name": "Multi-org strategy in Salesforce",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 458,
+        "name": "Salesforce migrations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 459,
+        "name": "Salesforce DX",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 460,
+        "name": "Marketo Engage basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 461,
+        "name": "Marketo programs and campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 462,
+        "name": "Marketo smart campaigns",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 463,
+        "name": "Marketo lead scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 464,
+        "name": "Marketo revenue cycle modeler",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 465,
+        "name": "Marketo API",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 466,
+        "name": "Pardot basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 467,
+        "name": "Pardot automation rules",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 468,
+        "name": "Pardot engagement studio",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 469,
+        "name": "Pardot lead scoring and grading",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 470,
+        "name": "Eloqua basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 471,
+        "name": "Eloqua canvas builder",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 472,
+        "name": "Eloqua campaign management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 473,
+        "name": "ActiveCampaign automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 474,
+        "name": "ActiveCampaign CRM",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 475,
+        "name": "Mailchimp advanced features",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 476,
+        "name": "Mailchimp audience management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 477,
+        "name": "Platform health monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 478,
+        "name": "Platform optimization audits",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 479,
+        "name": "Platform upgrade management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "10": {
+    "_constellation": "Technical Skills",
+    "foundation": [
+      {
+        "id": 480,
+        "name": "HTML structure basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 481,
+        "name": "HTML tags for email/web",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 482,
+        "name": "CSS basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 483,
+        "name": "Inline CSS for email",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 484,
+        "name": "Basic troubleshooting skills",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 485,
+        "name": "Understanding of web browsers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 486,
+        "name": "Developer tools in browsers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 487,
+        "name": "Responsive design principles",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 488,
+        "name": "CSS media queries",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 489,
+        "name": "JavaScript basics (syntax)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 490,
+        "name": "JavaScript variables and functions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 491,
+        "name": "JavaScript DOM manipulation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 492,
+        "name": "jQuery basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 493,
+        "name": "JSON structure",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 494,
+        "name": "XML basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 495,
+        "name": "Regular expressions (regex)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 496,
+        "name": "Version control concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 497,
+        "name": "Git basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 498,
+        "name": "GitHub/GitLab usage",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 499,
+        "name": "Code editors (VS Code etc.)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 500,
+        "name": "Command line basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 501,
+        "name": "Understanding of servers and hosting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 502,
+        "name": "Understanding of DNS",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 503,
+        "name": "Cookie and tracking technologies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 504,
+        "name": "Python basics for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 505,
+        "name": "Python data manipulation (Pandas)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 506,
+        "name": "Python for API calls",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 507,
+        "name": "Python for automation scripts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 508,
+        "name": "Python for data analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 509,
+        "name": "JavaScript for tracking pixels",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 510,
+        "name": "JavaScript for form customization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 511,
+        "name": "Custom form logic",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 512,
+        "name": "Google Tag Manager advanced (custom JS)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 513,
+        "name": "Node.js basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 514,
+        "name": "API design principles",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 515,
+        "name": "RESTful API best practices",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 516,
+        "name": "GraphQL basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 517,
+        "name": "Database concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 518,
+        "name": "Data structures",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 519,
+        "name": "Algorithms for marketing use cases",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 520,
+        "name": "Cloud platforms basics (AWS GCP Azure)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 521,
+        "name": "Serverless functions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 522,
+        "name": "Chrome extensions for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 523,
+        "name": "Building marketing tools",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 524,
+        "name": "Open source contribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 525,
+        "name": "Technical troubleshooting methodology",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 526,
+        "name": "Working with developers (bridging business/tech)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 527,
+        "name": "Technical documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 528,
+        "name": "Data schema understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 529,
+        "name": "System architecture basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "11": {
+    "_constellation": "Process & Strategy",
+    "foundation": [
+      {
+        "id": 530,
+        "name": "Process documentation basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 531,
+        "name": "SOP (Standard Operating Procedure) writing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 532,
+        "name": "Process mapping basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 533,
+        "name": "Flowchart creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 534,
+        "name": "Swimlane diagrams",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 535,
+        "name": "Meeting facilitation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 536,
+        "name": "Note-taking and documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 537,
+        "name": "Stakeholder identification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 538,
+        "name": "Basic communication planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 539,
+        "name": "Advanced process mapping",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 540,
+        "name": "Process improvement methodologies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 541,
+        "name": "Bottleneck identification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 542,
+        "name": "Root cause analysis (5 Whys Fishbone)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 543,
+        "name": "Change management fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 544,
+        "name": "ADKAR model",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 545,
+        "name": "Stakeholder management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 546,
+        "name": "Stakeholder analysis (power/interest grid)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 547,
+        "name": "Communication planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 548,
+        "name": "Training program design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 549,
+        "name": "User adoption strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 550,
+        "name": "Training materials creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 551,
+        "name": "Project management fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 552,
+        "name": "Agile/Scrum for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 553,
+        "name": "Sprint planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 554,
+        "name": "Backlog management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 555,
+        "name": "Kanban for marketing ops",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 556,
+        "name": "OKR (Objectives & Key Results) framework",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 557,
+        "name": "KPI definition and tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 558,
+        "name": "Balanced scorecard approach",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 559,
+        "name": "Vendor evaluation frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 560,
+        "name": "RFP (Request for Proposal) process",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 561,
+        "name": "Vendor selection criteria",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 562,
+        "name": "Contract negotiation basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 563,
+        "name": "Vendor relationship management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 564,
+        "name": "SLA (Service Level Agreement) creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 565,
+        "name": "Marketing operations maturity models",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 566,
+        "name": "Business process reengineering",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 567,
+        "name": "Lean methodology for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 568,
+        "name": "Six Sigma concepts (DMAIC)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 569,
+        "name": "Process optimization at scale",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 570,
+        "name": "Change management leadership",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 571,
+        "name": "Organizational design for MOps",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 572,
+        "name": "Operating model design",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 573,
+        "name": "Governance framework development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 574,
+        "name": "RACI matrix creation and management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 575,
+        "name": "Strategic planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 576,
+        "name": "Roadmap development (short and long-term)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 577,
+        "name": "Tech stack strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 578,
+        "name": "Build vs buy decision frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 579,
+        "name": "Platform consolidation strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 580,
+        "name": "Scalability planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 581,
+        "name": "Capacity planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 582,
+        "name": "Resource allocation optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 583,
+        "name": "Budget planning and management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 584,
+        "name": "Zero-based budgeting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 585,
+        "name": "ROI modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 586,
+        "name": "Business case development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 587,
+        "name": "Executive presentation skills",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 588,
+        "name": "Data-driven storytelling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 589,
+        "name": "Influencing without authority",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 590,
+        "name": "Cross-functional leadership",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 591,
+        "name": "Team building and development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 592,
+        "name": "Mentoring and coaching",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 593,
+        "name": "Risk management for MOps",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 594,
+        "name": "Disaster recovery planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 595,
+        "name": "Benchmarking and competitive analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "12": {
+    "_constellation": "Compliance & Governance",
+    "foundation": [
+      {
+        "id": 596,
+        "name": "Marketing privacy basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 597,
+        "name": "CAN-SPAM Act understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 598,
+        "name": "GDPR fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 599,
+        "name": "CCPA basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 600,
+        "name": "Data subject rights",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 601,
+        "name": "Consent basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 602,
+        "name": "Unsubscribe requirements",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 603,
+        "name": "GDPR compliance implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 604,
+        "name": "CCPA compliance implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 605,
+        "name": "Consent management platforms",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 606,
+        "name": "Double opt-in processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 607,
+        "name": "Privacy policy creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 608,
+        "name": "Cookie consent management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 609,
+        "name": "Data retention policies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 610,
+        "name": "Data deletion procedures",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 611,
+        "name": "Right to access processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 612,
+        "name": "Right to erasure processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 613,
+        "name": "Data portability",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 614,
+        "name": "Privacy by design principles",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 615,
+        "name": "Data processing agreements (DPAs)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 616,
+        "name": "Vendor privacy compliance",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 617,
+        "name": "Cross-border data transfers",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 618,
+        "name": "Privacy Shield / Standard Contractual Clauses",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 619,
+        "name": "Data protection impact assessments (DPIA)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 620,
+        "name": "Privacy governance frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 621,
+        "name": "Data classification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 622,
+        "name": "Sensitive data handling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 623,
+        "name": "Encryption for marketing data",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 624,
+        "name": "Access controls and permissions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 625,
+        "name": "Audit trail implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 626,
+        "name": "Compliance monitoring and reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 627,
+        "name": "Incident response planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 628,
+        "name": "Data breach procedures",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 629,
+        "name": "Regulatory change management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 630,
+        "name": "Industry-specific compliance (HIPAA etc.)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 631,
+        "name": "SOX compliance for marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 632,
+        "name": "Accessibility compliance (WCAG)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 633,
+        "name": "ADA compliance for digital",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 634,
+        "name": "Global privacy law navigation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 635,
+        "name": "Marketing data ethics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 636,
+        "name": "Ethical AI in marketing",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 637,
+        "name": "Marketing data governance councils",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 638,
+        "name": "Sustainability reporting (ESG for marketing)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 639,
+        "name": "AI ethics and responsible AI governance",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "13": {
+    "_constellation": "Revenue Operations",
+    "foundation": [
+      {
+        "id": 640,
+        "name": "RevOps fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 641,
+        "name": "Sales process understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 642,
+        "name": "Sales funnel stages",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 643,
+        "name": "Pipeline basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 644,
+        "name": "Opportunity management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 645,
+        "name": "Forecasting basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 646,
+        "name": "Quota understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 647,
+        "name": "Sales-marketing alignment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 648,
+        "name": "SLA (Service Level Agreement) creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 649,
+        "name": "Lead handoff processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 650,
+        "name": "MQL to SQL conversion optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 651,
+        "name": "Sales enablement basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 652,
+        "name": "Sales content management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 653,
+        "name": "Sales training coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 654,
+        "name": "Pipeline reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 655,
+        "name": "Revenue reporting",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 656,
+        "name": "Forecast accuracy measurement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 657,
+        "name": "Win/loss analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 658,
+        "name": "Deal desk operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 659,
+        "name": "Quote and proposal automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 660,
+        "name": "CPQ (Configure Price Quote) systems",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 661,
+        "name": "Account-based marketing operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 662,
+        "name": "Account scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 663,
+        "name": "Buying group identification",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 664,
+        "name": "Territory management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 665,
+        "name": "Sales capacity planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 666,
+        "name": "Revenue attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 667,
+        "name": "Multi-touch revenue attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 668,
+        "name": "Marketing influence on pipeline",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 669,
+        "name": "Revenue forecasting models",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 670,
+        "name": "Predictive pipeline analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 671,
+        "name": "Sales velocity optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 672,
+        "name": "Conversion rate optimization (full funnel)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 673,
+        "name": "Customer acquisition cost (CAC) optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 674,
+        "name": "Lifetime value (LTV) modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 675,
+        "name": "RevOps technology strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 676,
+        "name": "GTM (Go-to-Market) operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 677,
+        "name": "Sales and marketing operations alignment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 678,
+        "name": "Customer success operations alignment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 679,
+        "name": "Revenue operations leadership",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 680,
+        "name": "Cross-functional RevOps processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 681,
+        "name": "Revenue operations metrics frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 682,
+        "name": "Compensation plan alignment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 683,
+        "name": "Customer lifecycle operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 684,
+        "name": "Expansion/upsell operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 685,
+        "name": "Renewal operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 686,
+        "name": "Customer health scoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "14": {
+    "_constellation": "Content Operations",
+    "foundation": [
+      {
+        "id": 687,
+        "name": "Content marketing basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 688,
+        "name": "Content types and formats",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 689,
+        "name": "Content calendar basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 690,
+        "name": "Editorial calendar management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 691,
+        "name": "Content workflow basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 692,
+        "name": "Content approval processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 693,
+        "name": "Asset organization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 694,
+        "name": "File naming conventions",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 695,
+        "name": "Folder structure for content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 696,
+        "name": "Digital Asset Management (DAM) systems",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 697,
+        "name": "DAM taxonomy development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 698,
+        "name": "Metadata strategy for content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 699,
+        "name": "Content tagging",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 700,
+        "name": "Content workflow automation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 701,
+        "name": "Multi-stage approval workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 702,
+        "name": "Content production scheduling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 703,
+        "name": "Content distribution planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 704,
+        "name": "Content localization processes",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 705,
+        "name": "Translation management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 706,
+        "name": "Transcreation vs translation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 707,
+        "name": "Content versioning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 708,
+        "name": "Version control for content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 709,
+        "name": "Brand guidelines and governance",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 710,
+        "name": "Brand asset libraries",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 711,
+        "name": "Template and module libraries",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 712,
+        "name": "Content reusability strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 713,
+        "name": "Content performance measurement",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 714,
+        "name": "Content analytics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 715,
+        "name": "Content engagement metrics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 716,
+        "name": "Content ROI tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 717,
+        "name": "SEO operations for content",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 718,
+        "name": "Keyword research operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 719,
+        "name": "Content optimization workflows",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 720,
+        "name": "User-generated content management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 721,
+        "name": "Content syndication operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 722,
+        "name": "Content compliance review",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 723,
+        "name": "Content operations strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 724,
+        "name": "Content supply chain optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 725,
+        "name": "Headless CMS implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 726,
+        "name": "Content API management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 727,
+        "name": "Omnichannel content delivery",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 728,
+        "name": "Content personalization at scale",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 729,
+        "name": "Dynamic content systems",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 730,
+        "name": "AI for content operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 731,
+        "name": "Content intelligence platforms",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 732,
+        "name": "Content governance frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 733,
+        "name": "Global content operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 734,
+        "name": "Content operations team structure",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 735,
+        "name": "Content technology stack strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 736,
+        "name": "Content performance prediction",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 737,
+        "name": "Content gap analysis",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 738,
+        "name": "Content audit methodologies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 739,
+        "name": "Content sunset policies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "15": {
+    "_constellation": "Marketing Technology Management",
+    "foundation": [
+      {
+        "id": 740,
+        "name": "MarTech landscape understanding",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 741,
+        "name": "Marketing technology categories",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 742,
+        "name": "Technology needs assessment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 743,
+        "name": "Tool evaluation criteria",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 744,
+        "name": "Basic vendor research",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 745,
+        "name": "SaaS basics and licensing models",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 746,
+        "name": "Technology budgeting basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 747,
+        "name": "MarTech stack strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 748,
+        "name": "Current state assessment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 749,
+        "name": "Future state planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 750,
+        "name": "Gap analysis for tech stack",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 751,
+        "name": "Technology vendor evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 752,
+        "name": "RFP (Request for Proposal) creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 753,
+        "name": "RFP response evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 754,
+        "name": "Demo facilitation and evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 755,
+        "name": "Proof of concept (POC) management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 756,
+        "name": "Contract negotiation fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 757,
+        "name": "License management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 758,
+        "name": "Seat/user management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 759,
+        "name": "Renewal management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 760,
+        "name": "Tech stack documentation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 761,
+        "name": "System landscape diagrams",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 762,
+        "name": "Integration architecture planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 763,
+        "name": "Technology adoption planning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 764,
+        "name": "Change management for new tools",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 765,
+        "name": "Training program coordination",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 766,
+        "name": "Tech stack rationalization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 767,
+        "name": "Platform consolidation strategy",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 768,
+        "name": "Build vs buy decision frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 769,
+        "name": "Custom development vs COTS evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 770,
+        "name": "Technology roadmap development",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 771,
+        "name": "Technology portfolio management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 772,
+        "name": "Tech debt identification and management",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 773,
+        "name": "Innovation pipeline for MarTech",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 774,
+        "name": "Emerging technology evaluation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 775,
+        "name": "Beta program participation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 776,
+        "name": "Vendor relationship management (strategic)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 777,
+        "name": "Technology governance",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 778,
+        "name": "Technology risk assessment",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 779,
+        "name": "Business continuity for MarTech",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 780,
+        "name": "TCO (Total Cost of Ownership) modeling",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 781,
+        "name": "ROI modeling for technology investments",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  },
+  "16": {
+    "_constellation": "Performance Marketing Operations",
+    "foundation": [
+      {
+        "id": 782,
+        "name": "Paid media fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 783,
+        "name": "Paid media channels overview",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 784,
+        "name": "Campaign structure basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 785,
+        "name": "Bidding basics",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 786,
+        "name": "Quality Score concepts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 787,
+        "name": "Ad rank fundamentals",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 788,
+        "name": "Budget basics for paid media",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "id": 789,
+        "name": "Google Ads campaign setup",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 790,
+        "name": "Google Ads conversion tracking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 791,
+        "name": "Meta Ads Manager operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 792,
+        "name": "LinkedIn Campaign Manager operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 793,
+        "name": "Campaign trafficking",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 794,
+        "name": "Pixel implementation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 795,
+        "name": "Conversion tracking setup (cross-platform)",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 796,
+        "name": "UTM tagging strategy for paid",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 797,
+        "name": "Landing page coordination for paid",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 798,
+        "name": "Budget pacing and monitoring",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 799,
+        "name": "Bid strategy selection",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 800,
+        "name": "Audience management for paid media",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 801,
+        "name": "Remarketing/retargeting operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 802,
+        "name": "Lookalike audience creation",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 803,
+        "name": "Ad creative operations and versioning",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 804,
+        "name": "A/B testing for paid media",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 805,
+        "name": "Campaign optimization frameworks",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ],
+    "advanced": [
+      {
+        "id": 806,
+        "name": "Programmatic advertising operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 807,
+        "name": "DSP (Demand-Side Platform) operations",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 808,
+        "name": "DMP (Data Management Platform) integration",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 809,
+        "name": "Cross-channel paid media attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 810,
+        "name": "Media mix optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 811,
+        "name": "Advanced bidding strategies",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 812,
+        "name": "Automated rules and scripts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 813,
+        "name": "Google Ads scripts",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 814,
+        "name": "API access for paid platforms",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 815,
+        "name": "Custom reporting for paid media",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 816,
+        "name": "Multi-touch paid media attribution",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 817,
+        "name": "Incrementality testing for paid",
+        "status": "not-yet",
+        "evidenceCount": 0
+      },
+      {
+        "id": 818,
+        "name": "ROAS (Return on Ad Spend) optimization",
+        "status": "not-yet",
+        "evidenceCount": 0
+      }
+    ]
+  }
+}
