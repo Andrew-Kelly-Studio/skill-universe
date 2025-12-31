@@ -1,6 +1,6 @@
 # Andrew Kelly - Skill Universe Portfolio
 
-An interactive constellation-based visualization of skills and expertise across Marketing Operations, Coffee & Espresso, and Billiards.
+An interactive constellation-based visualization of skills and expertise across Marketing Operationsand Billiards.
 
 ## 🌌 Live Demo
 Visit: [skills.andrewkelly.studio](https://skills.andrewkelly.studio) *(after deployment)*
