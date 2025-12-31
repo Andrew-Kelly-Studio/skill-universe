@@ -33,6 +33,7 @@ npm run dev
 
 4. **Open in browser**
 ```
+http://localhost:5173
 ```
 
 ## 📁 Project Structure
