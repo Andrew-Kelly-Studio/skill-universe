@@ -63,7 +63,7 @@ const skillDescriptions = {
   192: "Using AI tools to generate marketing content efficiently while maintaining quality.",
   193: "Utilizing AI for creative brainstorming and generating innovative marketing ideas.",
   194: "Understanding ethical considerations and potential biases in AI-generated content.",
-  195: "Mastering sophisticated prompting techniques including chain-of-thought and few-shot learning.",
+  195: "Mastering sophisticated prompting techniques like chain-of-thought reasoning, few-shot examples, and structured outputs to get consistent, high-quality results from AI models.",
   196: "Building and maintaining libraries of reusable prompt templates for common tasks.",
   197: "Using chain-of-thought prompting to guide AI through complex reasoning processes.",
   198: "Providing examples in prompts to guide AI toward desired output formats and styles.",
@@ -77,7 +77,7 @@ const skillDescriptions = {
   206: "Creating images using AI tools like Midjourney, DALL-E, and Stable Diffusion.",
   207: "Writing effective prompts to generate specific visual styles and compositions.",
   208: "Evaluating AI tools based on capabilities, cost, and fit for marketing needs.",
-  209: "Designing efficient workflows that integrate AI tools into marketing operations.",
+  209: "Designing multi-step processes where AI handles specific tasks in a larger workflow, figuring out where AI fits and where humans should stay involved.",
   210: "Using AI to conduct market research and competitive intelligence gathering.",
   211: "Analyzing competitors' strategies and positioning using AI-powered tools.",
   212: "Building custom GPTs or Claude Projects for specialized marketing tasks.",
@@ -107,7 +107,16 @@ const skillDescriptions = {
   236: "Evaluating AI vendors and tools for procurement decisions.",
   237: "Managing pilot programs to test AI capabilities before full deployment.",
   238: "Collecting, preparing, and managing training data for AI model customization.",
-  239: "Operating and optimizing conversational AI systems and chatbot platforms."
+  239: "Operating and optimizing conversational AI systems and chatbot platforms.",
+    
+  // Technical Skills (480-529)
+  493: "Understanding how JSON organizes data with key-value pairs, arrays, and nested objects so you can read API responses, configure integrations, and work with structured data without getting lost.",
+  497: "Understanding core Git concepts like commits, branches, and repositories to track changes in code or files without losing progress.",
+  498: "Using GitHub or GitLab to store code, collaborate through pull requests and issues, and manage projects without overwriting each other's work.",
+  527: "Writing clear documentation that explains how systems work, how to troubleshoot problems, or how to set something up so the next person can actually understand it.",
+    
+  // Process & Strategy (530-595)
+  530: "Understanding how JSON organizes data with key-value pairs, arrays, and nested objects so you can read API responses, configure integrations, and work with structured data without getting lost."
 };
 
 const SkillUniverse = () => {
@@ -292,7 +301,7 @@ const UniverseView = ({ galaxies, onSelectGalaxy }) => {
             My Skill Universe
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-            A comprehensive map of my hobbies, skills, and expertise
+            A comprehensive map of my professional skills and expertise organized by domain
           </p>
         </div>
 
@@ -331,7 +340,7 @@ const UniverseView = ({ galaxies, onSelectGalaxy }) => {
                     <span className="text-white font-bold">{galaxy.totalSkills}</span>
                   </div>
                   <div className="flex justify-between text-lg">
-                    <span className="text-gray-400">Mastered</span>
+                    <span className="text-gray-400">Completed</span>
                     <span className="text-green-400 font-bold">{galaxy.completedSkills}</span>
                   </div>
                   <div className="flex justify-between text-lg">
@@ -370,7 +379,7 @@ const UniverseView = ({ galaxies, onSelectGalaxy }) => {
             
             <div className="space-y-4 text-gray-300 leading-relaxed">
               <p>
-                <strong className="text-white">What you're looking at:</strong> An interactive skill tracking 
+                <strong className="text-white">What you're looking at:</strong> An interactive skill-tracking 
                 tool I built to map and document my professional capabilities across marketing operations and beyond.
               </p>
               
@@ -385,7 +394,7 @@ const UniverseView = ({ galaxies, onSelectGalaxy }) => {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-purple-400 mt-1">•</span>
-                  <span><strong className="text-white">Portfolio Showcase:</strong> Share tangible evidence of my work: projects, tools, case studies, and content as I build and document each skill</span>
+                  <span><strong className="text-white">Portfolio Showcase:</strong> Share tangible evidence of my work, projects, tools, case studies, and content as I build and document each skill</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-purple-400 mt-1">•</span>
@@ -401,7 +410,7 @@ const UniverseView = ({ galaxies, onSelectGalaxy }) => {
               </p>
               
               <p className="text-sm text-gray-400 italic border-t border-white/10 pt-4 mt-6">
-                This is a working tool and portfolio project, expect it to evolve as I continue building, 
+                This is a working tool and portfolio project. Expect it to evolve as I continue building, 
                 learning, and documenting my work. For my complete professional background and resume, 
                 <a href="https://andrewkelly.studio/about-andrew-kelly" className="text-purple-300 hover:text-purple-200 underline ml-1">visit my main site</a>.
               </p>
@@ -636,12 +645,13 @@ const ConstellationView = ({ constellation, skills, portfolioEvidence, selectedS
 
   const getEvidenceIcon = (type) => {
     switch(type) {
-      case 'blog': return <FileText size={16} className="text-blue-400" />;
-      case 'tool': return <Plus size={16} className="text-purple-400" />;
-      case 'video': return <Youtube size={16} className="text-red-400" />;
-      case 'case': return <Briefcase size={16} className="text-green-400" />;
-      case 'github': return <Github size={16} className="text-gray-400" />;
-      default: return <FileText size={16} />;
+      case 'blog': return <FileText size={24} className="text-blue-400" />;
+      case 'tool': return <Plus size={24} className="text-purple-400" />;
+      case 'video': return <Youtube size={24} className="text-red-400" />;
+      case 'case': return <Briefcase size={24} className="text-green-400" />;
+      case 'github': return <Github size={24} className="text-gray-400" />;
+      case 'project': return <Briefcase size={24} className="text-purple-400" />;
+      default: return <FileText size={24} className="text-purple-400" />;
     }
   };
 
@@ -863,25 +873,40 @@ const ConstellationView = ({ constellation, skills, portfolioEvidence, selectedS
             </div>
 
             <div className="p-6 space-y-6">
-              {portfolioEvidence[selectedSkill.id] && portfolioEvidence[selectedSkill.id].length > 0 ? (
+              {portfolioEvidence[selectedSkill.id] && portfolioEvidence[selectedSkill.id].items && portfolioEvidence[selectedSkill.id].items.length > 0 ? (
                 <div>
                   <h3 className="text-xl font-bold text-white mb-4">📚 Portfolio Evidence</h3>
-                  <div className="space-y-3">
-                    {portfolioEvidence[selectedSkill.id].map((item, idx) => (
-                      <div key={idx} className="bg-white/5 backdrop-blur rounded-lg p-4 border border-white/10 hover:bg-white/10 transition-colors">
-                        <div className="flex items-start justify-between gap-4">
-                          <div className="flex items-start gap-3 flex-1">
+                  <div className="space-y-4">
+                    {portfolioEvidence[selectedSkill.id].items.map((item, idx) => (
+                      <div key={idx} className="bg-white/5 backdrop-blur rounded-lg p-6 border border-white/10 hover:bg-white/10 transition-colors">
+                        {/* Header with Icon and Title */}
+                        <div className="flex items-start gap-4 mb-4">
+                          <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-purple-500/20 flex items-center justify-center">
                             {getEvidenceIcon(item.type)}
-                            <div className="flex-1">
-                              <h4 className="text-white font-medium mb-1">{item.title}</h4>
-                              <p className="text-sm text-gray-400">{item.date}</p>
-                            </div>
                           </div>
-                          <a href={item.url} className="flex items-center gap-1 text-purple-400 hover:text-purple-300 text-sm transition-colors" target="_blank" rel="noopener noreferrer">
-                            View
-                            <ExternalLink size={14} />
-                          </a>
+                          <div className="flex-1">
+                            <h4 className="text-lg font-semibold text-white mb-1">{item.title}</h4>
+                            <p className="text-sm text-gray-400">{item.date}</p>
+                          </div>
                         </div>
+
+                        {/* Description */}
+                        {item.description && (
+                          <p className="text-gray-300 mb-4 leading-relaxed">{item.description}</p>
+                        )}
+
+                        {/* View Project Button */}
+                        {item.url && (
+                          <a 
+                            href={item.url} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-2 text-purple-300 hover:text-purple-200 transition-colors"
+                          >
+                            <span>View Project</span>
+                            <ExternalLink size={20} />
+                          </a>
+                        )}
                       </div>
                     ))}
                   </div>
