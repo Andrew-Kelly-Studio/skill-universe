@@ -1,1 +1,107 @@
-{}
+{
+  "195": {
+    "skillId": "195",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Used chain-of-thought prompting to walk Claude through complex features, few-shot examples to show what I wanted the UI to look like, and structured my requests to get consistent code output across 50+ iterations. The key was breaking down what I needed into clear, sequential prompts rather than asking for everything at once and hoping it worked.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  },
+  "199": {
+    "skillId": "199",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Worked through an intentional refinement process with Claude—ideation, planning how to make it valuable, building the initial version with few-shot prompting, then iterating in groups and sections until it was launchable. I'd test changes locally before committing, making sure each iteration actually improved things. It's not perfect, but it's functional enough to use and keep improving, which was the whole point.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  },
+  "209": {
+    "skillId": "209",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Designed a repeatable workflow for this project: ideation, planning, few-shot prompting with examples, then iterative refinement. I set up two Claude Projects: one as a content writer for portfolio pieces, and another to update the web app itself. Both can handle the JSON files directly, so I can add new galaxies, constellations, skills, and evidence without touching code. It's a workflow I can actually reuse.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  }, 
+   "493": {
+    "skillId": "493",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Worked with three interconnected JSON files:universe.json, skills.json, and portfolio.json, to manage all the app's data. Learned how nested objects and arrays structure the relationships between galaxies, constellations, and skills, and how to update values without breaking the connections. I didn't design the structure, but I understand how it works well enough to maintain it and troubleshoot when something's off.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  }, 
+
+   "497": {
+    "skillId": "497",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Used Git to track changes throughout the project - made three commits to get it launched, and now I commit regularly whenever I update the app. It's basic version control (commits to main branch, no branching yet), but it keeps a record of what changed and when, so I'm not working off random file versions.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  },
+   "498": {
+    "skillId": "498",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Set up a GitHub repo for this project and connected it to Vercel for automatic deployment. Every time I push changes to the main branch, GitHub triggers a rebuild and the site goes live in a few minutes. I'm not collaborating with anyone yet or using pull requests, but the repo stores all my code and gives me a deployment pipeline that actually works.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  },
+   "527": {
+    "skillId": "527",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Created three main technical docs for this project: a content management guide that walks through adding galaxies, constellations, skills, and evidence (with troubleshooting), custom instructions for a Claude Project that maps skills to projects and writes evidence in my style, and a project summary that explains what was built. The goal was to document enough that I could hand this off or pick it back up months later without having to reverse-engineer how everything works.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  }, 
+   "530": {
+    "skillId": "530",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "case",
+        "title": "My Skill Universe - Interactive Portfolio Application",
+        "description": "Created a complete guide for managing content - p-by-step instructions for adding galaxies, constellations, skills, and evidence, plus a troubleshooting section for common JSON errors. Included the full deployment workflow from local testing to pushing live. It captures the actual process I follow so I (or anyone else) can update the site without digging through code or trying to remember how everything connects.",
+        "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
+        "date": "January 2025"
+      }
+    ]
+  } 
+}
