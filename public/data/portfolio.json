@@ -32,7 +32,7 @@
       {
         "type": "case",
         "title": "My Skill Universe - Interactive Portfolio Application",
-        "description": "Designed a repeatable workflow for this project: ideation, planning, few-shot prompting with examples, then iterative refinement. I set up two Claude Projects: one as a content writer for portfolio pieces, and another to update the web app itself. Both can handle the JSON files directly, so I can add new galaxies, constellations, skills, and evidence without touching code. It's a workflow I can actually reuse.",
+        "description": "Designed a repeatable workflow for this project: ideation, planning, few-shot prompting with examples, then iterative refinement. I set up two Claude Projects: one as a content writer for portfolio pieces, and another to update the web app itself. Both can handle the JSON files directly, so I can add new galaxies, constellations, skills, and evidence without touching code.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
         "date": "January 2025"
       }
@@ -51,7 +51,6 @@
       }
     ]
   }, 
-
    "497": {
     "skillId": "497",
     "evidenceCount": 1,
@@ -98,7 +97,7 @@
       {
         "type": "case",
         "title": "My Skill Universe - Interactive Portfolio Application",
-        "description": "Created a complete guide for managing content - p-by-step instructions for adding galaxies, constellations, skills, and evidence, plus a troubleshooting section for common JSON errors. Included the full deployment workflow from local testing to pushing live. It captures the actual process I follow so I (or anyone else) can update the site without digging through code or trying to remember how everything connects.",
+        "description": "Created a complete guide for managing content: step-by-step instructions for adding galaxies, constellations, skills, and evidence, plus a troubleshooting section for common JSON errors. Included the full deployment workflow from local testing to pushing live. It captures the actual process I follow so I (or anyone else) can update the site without digging through code or trying to remember how everything connects.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
         "date": "January 2025"
       }
