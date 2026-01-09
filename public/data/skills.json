@@ -1208,7 +1208,7 @@
         "id": 195,
         "name": "Advanced prompt engineering",
         "status": "completed",
-        "evidenceCount": 1
+        "evidenceCount": 2
       },
       {
         "id": 196,
@@ -1237,8 +1237,8 @@
       {
         "id": 200,
         "name": "AI for content editing and refinement",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 201,
@@ -1570,8 +1570,8 @@
       {
         "id": 254,
         "name": "Landing page creation",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 255,
@@ -1588,8 +1588,8 @@
       {
         "id": 257,
         "name": "Form strategy and design",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 258,
@@ -2960,8 +2960,8 @@
       {
         "id": 480,
         "name": "HTML structure basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 481,
@@ -2972,8 +2972,8 @@
       {
         "id": 482,
         "name": "CSS basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 483,
@@ -3004,8 +3004,8 @@
       {
         "id": 487,
         "name": "Responsive design principles",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 488,
@@ -3094,8 +3094,8 @@
       {
         "id": 502,
         "name": "Understanding of DNS",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 503,
@@ -4294,8 +4294,8 @@
       {
         "id": 696,
         "name": "Digital Asset Management (DAM) systems",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 697,
@@ -4318,8 +4318,8 @@
       {
         "id": 700,
         "name": "Content workflow automation",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 701,
@@ -4396,8 +4396,8 @@
       {
         "id": 713,
         "name": "Content performance measurement",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 714,
