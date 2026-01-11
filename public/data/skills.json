@@ -1163,26 +1163,26 @@
       {
         "id": 188,
         "name": "AI fundamentals for marketers",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 189,
         "name": "Understanding LLMs (Large Language Models)",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 190,
         "name": "Prompt writing basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 191,
         "name": "Using ChatGPT/Claude for marketing tasks",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 192,
@@ -1199,8 +1199,8 @@
       {
         "id": 194,
         "name": "AI ethics awareness",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       }
     ],
     "intermediate": [

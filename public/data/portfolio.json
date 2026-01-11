@@ -1,4 +1,69 @@
 {
+  "188": {
+    "skillId": "188",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "Google AI Essentials",
+        "description": "Completed Google's AI certification in about 6 hours, covering AI fundamentals—how AI works, what machine learning actually is, and how generative AI produces outputs. The course walked through real concepts like training data, model capabilities and limitations, and why human oversight matters when using AI tools.",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "189": {
+    "skillId": "189",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "Google AI Essentials",
+        "description": "Learned how large language models actually work through Google's 6-hour AI Essentials course. Covered the basics of how these models are trained on data, how they generate text, and why you need to evaluate their outputs before using them. The course emphasized understanding what LLMs can and can't do reliably.",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "190": {
+    "skillId": "190",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "Google AI Essentials",
+        "description": "Google's AI Essentials taught me how to write clear, specific prompts to get useful outputs from AI tools. The 'Discover the Art of Prompt Engineering' module covered techniques like few-shot prompting and how to structure prompts for different workplace tasks—from drafting emails to organizing event logistics.",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "191": {
+    "skillId": "191",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "Google AI Essentials",
+        "description": "The course showed practical applications of AI for everyday work tasks—generating ideas when stuck at the start of a project, researching and organizing information for events, and speeding through flooded inboxes by drafting email responses. Learned when to use AI tools versus when they're not the right fit.",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "194": {
+    "skillId": "194",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "Google AI Essentials",
+        "description": "Google's course dedicated a full module to using AI responsibly—identifying potential biases in AI outputs, understanding security risks when working with AI tools, and applying a framework for recognizing AI harms in real workplace scenarios. Walked away with a practical checklist for responsible AI use.",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
+        "date": "July 2025"
+      }
+    ]
+  },
   "195": {
     "skillId": "195",
     "evidenceCount": 2,
@@ -8,14 +73,14 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Used chain-of-thought prompting to walk Claude through complex features, few-shot examples to show what I wanted the UI to look like, and structured my requests to get consistent code output across 50+ iterations. The key was breaking down what I needed into clear, sequential prompts rather than asking for everything at once and hoping it worked.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       },
       {
         "type": "case",
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Worked through complex Webflow challenges by using chain-of-thought prompting with Claude—describing the problem in detail, walking through what I'd already tried, and asking Claude to reason through solutions step-by-step. This approach was crucial for troubleshooting issues I hadn't encountered before, like mobile responsive layout bugs and section structure problems. The iterative back-and-forth meant each prompt built on what we learned from the last attempt.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -28,7 +93,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Worked through an intentional refinement process with Claude—ideation, planning how to make it valuable, building the initial version with few-shot prompting, then iterating in groups and sections until it was launchable. I'd test changes locally before committing, making sure each iteration actually improved things. It's not perfect, but it's functional enough to use and keep improving, which was the whole point.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   },
@@ -41,7 +106,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Collaborated with Claude to write and refine most of the website copy across services, about, and portfolio pages. I'd draft initial content or describe what I needed, Claude would generate options, and we'd iterate until the voice felt authentic and conversion-focused. The AI handled structure and polish while I ensured the tone stayed conversational and honest about my experience.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -54,7 +119,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Designed a repeatable workflow for this project: ideation, planning, few-shot prompting with examples, then iterative refinement. I set up two Claude Projects: one as a content writer for portfolio pieces, and another to update the web app itself. Both can handle the JSON files directly, so I can add new galaxies, constellations, skills, and evidence without touching code.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   },
@@ -67,7 +132,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Built conversion-focused landing pages for services, about, and portfolio sections with clear value propositions and strategic CTAs. Each page serves a specific purpose in the user journey—services pages sell the offering, portfolio pages demonstrate capability, about page builds trust. Structured each with hero sections, supporting content, and next-step CTAs to guide visitors toward getting in touch.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -80,7 +145,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Designed the contact form strategy with minimal friction—just name, email, and message fields to reduce abandonment. Set up the form to store submissions in both Webflow and HubSpot for lead management, with clear next-step messaging on the thank-you page. Kept it privacy-friendly by only collecting essential information and being transparent about how the data would be used.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },  
@@ -93,7 +158,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Made semantic HTML structure decisions throughout the Webflow build, even though I wasn't writing code directly. Set up proper heading hierarchy (H1 for page titles, H2 for major sections, H3 for FAQs), used semantic elements for navigation and footer sections, and ensured the underlying HTML made sense for basic SEO and accessibility. Webflow's visual interface made it easy to see the structure I was creating.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },   
@@ -106,7 +171,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Claude provided the initial visual system (colors, typography, spacing), but I tweaked and applied it throughout Webflow. Adjusted padding and margins to improve visual hierarchy, modified hover states for buttons and links, and fine-tuned responsive breakpoints when elements didn't look right on mobile. Understanding CSS concepts helped me know what to adjust in Webflow's visual editor to get the results I wanted.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -119,7 +184,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Built the site to be responsive across desktop, tablet, and mobile breakpoints in Webflow. Made decisions about when to stack elements vertically on smaller screens, adjusted font sizes for readability across devices, and tested navigation patterns to ensure they worked everywhere. The three-column case study grid became two columns on tablet and single column on mobile, with different spacing at each breakpoint.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -132,7 +197,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Worked with three interconnected JSON files:universe.json, skills.json, and portfolio.json, to manage all the app's data. Learned how nested objects and arrays structure the relationships between galaxies, constellations, and skills, and how to update values without breaking the connections. I didn't design the structure, but I understand how it works well enough to maintain it and troubleshoot when something's off.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   }, 
@@ -145,7 +210,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Used Git to track changes throughout the project - made three commits to get it launched, and now I commit regularly whenever I update the app. It's basic version control (commits to main branch, no branching yet), but it keeps a record of what changed and when, so I'm not working off random file versions.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   },
@@ -158,7 +223,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Set up a GitHub repo for this project and connected it to Vercel for automatic deployment. Every time I push changes to the main branch, GitHub triggers a rebuild and the site goes live in a few minutes. I'm not collaborating with anyone yet or using pull requests, but the repo stores all my code and gives me a deployment pipeline that actually works.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   },
@@ -171,7 +236,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Set up custom domain configuration connecting andrewkelly.studio to Webflow's hosting through DNS records. Added A records and CNAME records to point the domain to Webflow's servers, understood propagation time, and verified SSL certificate generation. Had to troubleshoot when the DNS changes didn't propagate immediately and understood why it takes time for changes to take effect globally.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -184,7 +249,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Created three main technical docs for this project: a content management guide that walks through adding galaxies, constellations, skills, and evidence (with troubleshooting), custom instructions for a Claude Project that maps skills to projects and writes evidence in my style, and a project summary that explains what was built. The goal was to document enough that I could hand this off or pick it back up months later without having to reverse-engineer how everything works.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   }, 
@@ -197,7 +262,7 @@
         "title": "My Skill Universe - Interactive Portfolio Application",
         "description": "Created a complete guide for managing content: step-by-step instructions for adding galaxies, constellations, skills, and evidence, plus a troubleshooting section for common JSON errors. Included the full deployment workflow from local testing to pushing live. It captures the actual process I follow so I (or anyone else) can update the site without digging through code or trying to remember how everything connects.",
         "url": "https://andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
-        "date": "January 2025"
+        "date": "January 2026"
       }
     ]
   },
@@ -210,7 +275,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Managed all website assets through Webflow's asset manager, organizing files by use case (icons, Open Graph images, content images, custom fonts). Optimized file sizes both before uploading and using Webflow's built-in compression, and kept the environment clean by regularly removing unused assets. Made sure the custom Inter font files loaded correctly across the site without any tracking or external CDN dependencies.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -223,7 +288,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Configured Webflow's CMS collections from scratch for case studies and blog posts, designing the field structure, content types, and relationships between different collection items. Set up automated publishing workflows so new case studies automatically appear in the portfolio grid with proper filtering, and blog posts flow to the resources page. The CMS handles all the templating and dynamic content generation once I publish a new piece.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   },
@@ -236,7 +301,7 @@
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
         "description": "Implemented Plausible Analytics as a privacy-first alternative to Google Analytics for tracking site performance. Set up custom goals to track key conversions like contact form submissions without using cookies or collecting personal data beyond what users voluntarily provide in forms. The lightweight script tracks page views, traffic sources, and user behavior patterns while staying GDPR/CCPA compliant by default.",
         "url": "https://andrewkelly.studio/case-studies/building-my-digital-studio-a-platform-for-marketing-ops-experiments-ai-exploration-and-personal-interests",
-        "date": "January 2025"
+        "date": "December 2025"
       }
     ]
   } 

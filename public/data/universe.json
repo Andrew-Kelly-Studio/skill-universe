@@ -6,7 +6,7 @@
       "icon": "🌌",
       "color": "#8b5cf6",
       "totalSkills": 818,
-      "completedSkills": 18,
+      "completedSkills": 23,
       "inProgressSkills": 0,
       "constellationCount": 16,
       "description": "Complete marketing operations expertise across 16 specialized domains"
@@ -60,7 +60,7 @@
         "icon": "🤖",
         "color": "#ec4899",
         "totalSkills": 52,
-        "completedSkills": 4,
+        "completedSkills": 9,
         "inProgressSkills": 0,
         "description": "Skills for ai & innovation"
       },
