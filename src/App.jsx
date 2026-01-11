@@ -109,14 +109,53 @@ const skillDescriptions = {
   238: "Collecting, preparing, and managing training data for AI model customization.",
   239: "Operating and optimizing conversational AI systems and chatbot platforms.",
     
+  // Campaign Operations (240-298)
+  254: "Building standalone landing pages optimized for specific campaigns with focused messaging, clear calls-to-action, and conversion-oriented design elements.",
+  257: "Designing web forms that optimize completion rates by balancing data collection needs with user experience through field selection, layout, validation, and progressive disclosure.",
+  261: "Designing post-conversion thank you pages that confirm the action, provide next steps, and leverage the high-engagement moment for additional conversions like social sharing, content downloads, or secondary offers.",
+  265: "Building dashboards that track campaign metrics across channels including traffic, conversions, pipeline contribution, and ROI to measure effectiveness and inform optimization.",
+
+  // Lead Management (335-388)
+  342: "Creating dynamic lists that automatically update as contacts enter and exit based on defined criteria, ensuring segments stay current as contact properties and behaviors change.",
+  343: "Building complex audience segments using multiple criteria, AND/OR logic, nested conditions, and property-based filters to target specific subsets of contacts for personalized campaigns.",
+
+  // Platform Mastery (389-479)
+  389: "Understanding HubSpot's CRM structure including contacts, companies, deals, and tickets, along with core functionality for managing customer relationships and sales activities.",
+  390: "Creating, updating, and organizing contact records in HubSpot including managing contact properties, lifecycle stages, and contact-level activities and communications.",
+  394: "Navigating HubSpot's interface across Marketing Hub, Sales Hub, Service Hub, and CMS Hub to access tools, settings, and features efficiently.",
+  405: "Creating and configuring custom contact, company, deal, and ticket properties in HubSpot to capture business-specific data beyond default fields.",
+  411: "Building static lists for one-time segments and active lists that automatically update based on contact criteria for dynamic audience targeting.",
+  419: "Building and customizing reports in HubSpot to track marketing, sales, and service metrics using standard and custom report builders with appropriate data sources and visualizations.",
+  421: "Creating and organizing dashboards in HubSpot that combine multiple reports into unified views for monitoring KPIs, campaign performance, and business metrics.",
+
   // Technical Skills (480-529)
+  480: "Understanding HTML document structure, semantic tags, elements, and attributes to read, edit, and troubleshoot web pages and email templates.",
+  482: "Applying CSS properties to control typography, colors, spacing, borders, and layout of HTML elements across web pages and emails.",
+  487: "Designing layouts that adapt to different viewport sizes using flexible grids, media queries, and scalable elements to ensure usability across devices.",    
   493: "Understanding how JSON organizes data with key-value pairs, arrays, and nested objects so you can read API responses, configure integrations, and work with structured data without getting lost.",
   497: "Understanding core Git concepts like commits, branches, and repositories to track changes in code or files without losing progress.",
   498: "Using GitHub or GitLab to store code, collaborate through pull requests and issues, and manage projects without overwriting each other's work.",
+  501: "Understanding how web servers process requests, serve content, and host websites, including basic concepts of server types, deployment, and hosting environments.",
+  502: "Understanding how Domain Name System translates domain names to IP addresses, including DNS records, propagation, and configuration for domains and email authentication.",
   527: "Writing clear documentation that explains how systems work, how to troubleshoot problems, or how to set something up so the next person can actually understand it.",
     
   // Process & Strategy (530-595)
-  530: "Understanding how JSON organizes data with key-value pairs, arrays, and nested objects so you can read API responses, configure integrations, and work with structured data without getting lost."
+  530: "Understanding how JSON organizes data with key-value pairs, arrays, and nested objects so you can read API responses, configure integrations, and work with structured data without getting lost.",
+
+  // Compliance & Governance (596-639)
+  596: "Understanding fundamental privacy principles for marketing including data collection consent, transparency requirements, individual rights, and ethical data usage practices.",
+  598: "Understanding General Data Protection Regulation requirements including lawful bases for processing, data subject rights, consent mechanisms, and obligations for organizations handling EU resident data.",
+  599: "Understanding California Consumer Privacy Act requirements including consumer rights to know, delete, and opt-out of data sales, plus disclosure and compliance obligations for businesses.",
+  603: "Implementing GDPR-compliant marketing processes including consent management, data processing documentation, privacy notices, and mechanisms for honoring data subject rights requests.",
+  604: "Implementing CCPA-compliant systems and processes including consumer rights request handling, opt-out mechanisms, privacy policy updates, and vendor data sharing disclosures.",
+  608: "Implementing cookie consent banners and preference centers that comply with privacy regulations by obtaining consent before non-essential tracking and allowing users to manage their preferences.",
+  614: "Embedding privacy considerations into system design and processes from the start by minimizing data collection, implementing default privacy settings, and building in security measures proactively.",
+   
+  
+  // Content Operations (687-739)
+  696: "Using DAM platforms to centralize storage, organize with metadata and taxonomies, control access permissions, and enable efficient retrieval of marketing assets.",
+  700: "Automating content creation, review, approval, and publishing processes through workflow tools to reduce manual handoffs and speed up production cycles.",
+  713: "Measuring content effectiveness through metrics like pageviews, engagement rate, time on page, conversions, and ROI to inform content strategy and optimization."
 };
 
 const SkillUniverse = () => {
@@ -895,7 +934,7 @@ const ConstellationView = ({ constellation, skills, portfolioEvidence, selectedS
                           <p className="text-gray-300 mb-4 leading-relaxed">{item.description}</p>
                         )}
 
-                        {/* View Project Button */}
+                        {/* Learn More Button */}
                         {item.url && (
                           <a 
                             href={item.url} 
@@ -903,7 +942,7 @@ const ConstellationView = ({ constellation, skills, portfolioEvidence, selectedS
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 text-purple-300 hover:text-purple-200 transition-colors"
                           >
-                            <span>View Project</span>
+                            <span>Learn More</span>
                             <ExternalLink size={20} />
                           </a>
                         )}
