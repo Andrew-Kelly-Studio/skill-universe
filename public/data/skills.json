@@ -5,8 +5,8 @@
       {
         "id": 1,
         "name": "Email marketing fundamentals",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 2,
@@ -1571,7 +1571,7 @@
         "id": 254,
         "name": "Landing page creation",
         "status": "completed",
-        "evidenceCount": 1
+        "evidenceCount": 2
       },
       {
         "id": 255,
@@ -1589,7 +1589,7 @@
         "id": 257,
         "name": "Form strategy and design",
         "status": "completed",
-        "evidenceCount": 1
+        "evidenceCount": 2
       },
       {
         "id": 258,
@@ -1636,8 +1636,8 @@
       {
         "id": 265,
         "name": "Campaign performance dashboards",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 266,
@@ -2116,14 +2116,14 @@
       {
         "id": 342,
         "name": "Smart lists/dynamic lists",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 343,
         "name": "Advanced segmentation logic",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 344,
@@ -2405,14 +2405,14 @@
       {
         "id": 389,
         "name": "HubSpot CRM basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 390,
         "name": "Contact management in HubSpot",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 391,
@@ -2435,8 +2435,8 @@
       {
         "id": 394,
         "name": "HubSpot navigation",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 395,
@@ -2503,8 +2503,8 @@
       {
         "id": 405,
         "name": "Custom properties in HubSpot",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 406,
@@ -2539,14 +2539,14 @@
       {
         "id": 411,
         "name": "Lists in HubSpot (static and active)",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 412,
         "name": "Workflows in HubSpot",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 413,
@@ -2587,8 +2587,8 @@
       {
         "id": 419,
         "name": "HubSpot reporting",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 420,
@@ -2599,8 +2599,8 @@
       {
         "id": 421,
         "name": "Dashboards in HubSpot",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 422,

@@ -6,7 +6,7 @@
       "icon": "🌌",
       "color": "#8b5cf6",
       "totalSkills": 818,
-      "completedSkills": 23,
+      "completedSkills": 35,
       "inProgressSkills": 0,
       "constellationCount": 16,
       "description": "Complete marketing operations expertise across 16 specialized domains"
@@ -20,7 +20,7 @@
         "icon": "📧",
         "color": "#3b82f6",
         "totalSkills": 50,
-        "completedSkills": 0,
+        "completedSkills": 1,
         "inProgressSkills": 0,
         "description": "Skills for email operations"
       },
@@ -70,7 +70,7 @@
         "icon": "🎯",
         "color": "#f59e0b",
         "totalSkills": 59,
-        "completedSkills": 2,
+        "completedSkills": 3,
         "inProgressSkills": 0,
         "description": "Skills for campaign operations"
       },
@@ -90,7 +90,7 @@
         "icon": "💼",
         "color": "#14b8a6",
         "totalSkills": 54,
-        "completedSkills": 0,
+        "completedSkills": 2,
         "inProgressSkills": 0,
         "description": "Skills for lead management"
       },
@@ -100,7 +100,7 @@
         "icon": "🏗️",
         "color": "#6366f1",
         "totalSkills": 91,
-        "completedSkills": 0,
+        "completedSkills": 8,
         "inProgressSkills": 0,
         "description": "Skills for platform mastery"
       },

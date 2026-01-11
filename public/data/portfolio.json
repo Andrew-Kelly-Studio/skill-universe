@@ -1,12 +1,25 @@
 {
+  "1": {
+    "skillId": "1",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The email module covered how email fits into an inbound marketing strategy and why it's such a high-ROI channel when done well. Learned the basics of creating marketing emails in HubSpot: from setting up email types to understanding deliverability and engagement. The course emphasized that consumers actually want to hear from brands through email.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
   "188": {
     "skillId": "188",
     "evidenceCount": 1,
     "items": [
       {
         "type": "certification",
-        "title": "Google AI Essentials",
-        "description": "Completed Google's AI certification in about 6 hours, covering AI fundamentals—how AI works, what machine learning actually is, and how generative AI produces outputs. The course walked through real concepts like training data, model capabilities and limitations, and why human oversight matters when using AI tools.",
+        "title": "Google AI Essentials Certification",
+        "description": "Completed Google's AI certification in about 6 hours, covering AI fundamentals: how AI works, what machine learning actually is, and how generative AI produces outputs. The course walked through real concepts like training data, model capabilities and limitations, and why human oversight matters when using AI tools.",
         "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
         "date": "July 2025"
       }
@@ -18,7 +31,7 @@
     "items": [
       {
         "type": "certification",
-        "title": "Google AI Essentials",
+        "title": "Google AI Essentials Certification",
         "description": "Learned how large language models actually work through Google's 6-hour AI Essentials course. Covered the basics of how these models are trained on data, how they generate text, and why you need to evaluate their outputs before using them. The course emphasized understanding what LLMs can and can't do reliably.",
         "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
         "date": "July 2025"
@@ -31,7 +44,7 @@
     "items": [
       {
         "type": "certification",
-        "title": "Google AI Essentials",
+        "title": "Google AI Essentials Certification",
         "description": "Google's AI Essentials taught me how to write clear, specific prompts to get useful outputs from AI tools. The 'Discover the Art of Prompt Engineering' module covered techniques like few-shot prompting and how to structure prompts for different workplace tasks—from drafting emails to organizing event logistics.",
         "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
         "date": "July 2025"
@@ -44,8 +57,8 @@
     "items": [
       {
         "type": "certification",
-        "title": "Google AI Essentials",
-        "description": "The course showed practical applications of AI for everyday work tasks—generating ideas when stuck at the start of a project, researching and organizing information for events, and speeding through flooded inboxes by drafting email responses. Learned when to use AI tools versus when they're not the right fit.",
+        "title": "Google AI Essentials Certification",
+        "description": "The course showed practical applications of AI for everyday work tasks: generating ideas when stuck at the start of a project, researching and organizing information for events, and speeding through flooded inboxes by drafting email responses. Learned when to use AI tools versus when they're not the right fit.",
         "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
         "date": "July 2025"
       }
@@ -57,8 +70,8 @@
     "items": [
       {
         "type": "certification",
-        "title": "Google AI Essentials",
-        "description": "Google's course dedicated a full module to using AI responsibly—identifying potential biases in AI outputs, understanding security risks when working with AI tools, and applying a framework for recognizing AI harms in real workplace scenarios. Walked away with a practical checklist for responsible AI use.",
+        "title": "Google AI Essentials Certification",
+        "description": "Google's course dedicated a full module to using AI responsibly: identifying potential biases in AI outputs, understanding security risks when working with AI tools, and applying a framework for recognizing AI harms in real workplace scenarios. Walked away with a practical checklist for responsible AI use.",
         "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UR9LLMDF6JXS",
         "date": "July 2025"
       }
@@ -125,7 +138,7 @@
   },
   "254": {
     "skillId": "254",
-    "evidenceCount": 1,
+    "evidenceCount": 2,
     "items": [
       {
         "type": "case",
@@ -133,22 +146,179 @@
         "description": "Built conversion-focused landing pages for services, about, and portfolio sections with clear value propositions and strategic CTAs. Each page serves a specific purpose in the user journey—services pages sell the offering, portfolio pages demonstrate capability, about page builds trust. Structured each with hero sections, supporting content, and next-step CTAs to guide visitors toward getting in touch.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
         "date": "December 2025"
+      },
+      {
+        "type": "case",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "While the certification focused on the broader Marketing Hub capabilities, it covered how landing pages work with forms and CTAs to convert visitors. Learned how landing pages fit into campaign strategy—creating dedicated pages for specific offers that align with your campaign goals.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
       }
     ]
   },
   "257": {
     "skillId": "257",
-    "evidenceCount": 1,
+    "evidenceCount": 2,
     "items": [
       {
         "type": "case",
         "title": "Building andrewkelly.studio - AI-Powered Website Development",
-        "description": "Designed the contact form strategy with minimal friction—just name, email, and message fields to reduce abandonment. Set up the form to store submissions in both Webflow and HubSpot for lead management, with clear next-step messaging on the thank-you page. Kept it privacy-friendly by only collecting essential information and being transparent about how the data would be used.",
+        "description": "Designed the contact form strategy with minimal friction: just name, email, and message fields to reduce abandonment. Set up the form to store submissions in both Webflow and HubSpot for lead management, with clear next-step messaging on the thank-you page. Kept it privacy-friendly by only collecting essential information and being transparent about how the data would be used.",
         "url": "andrewkelly.studio/case-studies/andrew-kellys-skill-universe",
         "date": "December 2025"
+      },
+      {
+        "type": "case",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The forms module was really practical. Spent time actually building forms in HubSpot and thinking about when to use them versus ungating content. Learned how to identify ideal moments for forms, create different form types based on your needs, and understand how form data flows into your contact database.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
       }
     ]
-  },  
+  },
+  "265": {
+    "skillId": "265",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The campaigns module explained how campaigns are the fundamental building blocks of a marketing strategy in HubSpot. Learned how to create campaigns, attach assets to them, and then report on campaign performance to see what's delivering results. The dashboard view helps you stay focused on goals and measure what matters.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "342": {
+    "skillId": "342",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "Practiced creating active lists (HubSpot calls them 'smart lists') that automatically update based on criteria you set. These are crucial for segmentation: you can build lists based on contact properties, page views, email engagement, form submissions, or any combination. Once set up, they maintain themselves as contacts meet or stop meeting your criteria.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "343": {
+    "skillId": "343",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The segmentation lessons went beyond basic list building into more complex logic: using AND/OR operators, multiple criteria, and behavioral data to create targeted segments. The course emphasized that good segmentation is the foundation for personalized marketing at scale, letting you deliver the right message to the right people.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "389": {
+    "skillId": "389",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "Completed HubSpot's Marketing Hub certification over about 7 hours with hands-on practice in the platform. Learned how the CRM database works as the foundation for storing contact information and managing relationships. The course covered how Marketing Hub integrates with the CRM to create personalized experiences at scale.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "390": {
+    "skillId": "390",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The certification had a whole module on exploring the contacts database: how to manage contact records, track interactions, and use that foundational information to build relationships. Got practical experience navigating contact properties, updating records, and understanding how the database powers personalized marketing.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "394": {
+    "skillId": "394",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "Spent 6-7 hours getting comfortable navigating Marketing Hub through hands-on exercises. Learned where all the key tools live: contacts, campaigns, emails, workflows, reporting—and how they work together as part of an inbound marketing strategy. The course gave me a solid mental map of where to find what I need.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "405": {
+    "skillId": "405",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "Through the certification's practical exercises, learned how to work with contact properties to capture specific data about leads and customers. Understanding custom properties was key to segmentation and personalization. You need the right data fields to create meaningful segments and tailored experiences.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "411": {
+    "skillId": "411",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The segmentation module covered how to build both static and active lists in HubSpot. Practiced creating lists based on different criteria—contact properties, behaviors, and engagement. Active lists update automatically based on your criteria, while static lists capture a snapshot. Both are essential for organizing contacts and targeting campaigns.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "412": {
+    "skillId": "412",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "One of the longest modules was on workflows and automation: how to set up automated sequences that engage contacts at the right time without manual effort. Built practice workflows with enrollment triggers, delays, branching logic, and actions. The course emphasized that marketing automation is vital for executing personalized engagement at scale.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "419": {
+    "skillId": "419",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "The reporting module showed how to measure marketing performance and use data to optimize campaigns. Learned about the different report types available in Marketing Hub: traffic reports, campaign reports, contact attribution—and how to interpret the data to inform future marketing decisions.",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
+  "421": {
+    "skillId": "421",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "certification",
+        "title": "HubSpot Marketing Hub Software Certification",
+        "description": "Learned how to use HubSpot dashboards to visualize marketing performance in one place. The certification covered how to pull together different reports and metrics to create a view that helps you track progress toward goals and identify what's working (and what's not).",
+        "url": "https://app-na2.hubspot.com/academy/achievements/rl63y16y/en/1/andrew-kelly/hubspot-marketing-hub-software",
+        "date": "July 2025"
+      }
+    ]
+  },
   "480": {
     "skillId": "480",
     "evidenceCount": 1,
