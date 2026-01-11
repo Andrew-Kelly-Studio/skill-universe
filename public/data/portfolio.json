@@ -436,6 +436,97 @@
       }
     ]
   },
+  "596": {
+    "skillId": "596",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Created a complete guide for managing content: step-by-step instructions for adding galaxies, constellations, skills, and evidence, plus a troubleshooting section for common JSON errors. Included the full deployment workflow from local testing to pushing live. It captures the actual process I follow so I (or anyone else) can update the site without digging through code or trying to remember how everything connects.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "598": {
+    "skillId": "598",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Used Termly's questionnaire to generate a base privacy policy, which forced me to research exactly what data each third-party tool in my stack collected and why. After getting the template, I refined sections with Claude to make the language clearer and more aligned with my actual practices. Then I manually built the policy pages in Webflow instead of using Termly's embedded HTML, which would have added tracking to my privacy policy—kind of defeating the whole point.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "599": {
+    "skillId": "599",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Researched CCPA requirements for California residents when building the privacy policy, including rights to know what data is collected, delete data, and opt-out of data sales (which I don't do). Added specific California privacy rights section explaining how residents can exercise their rights. The no-cookie approach made CCPA compliance easier since I'm not collecting or selling personal information through tracking.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "603": {
+    "skillId": "603",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Implemented actual GDPR compliance by choosing privacy-respecting tools and documenting data processing in the privacy policy. Used Plausible Analytics (EU-hosted, GDPR-compliant), minimized form fields to only essential data, and provided clear contact methods for data requests. The implementation wasn't just writing a policy—it was making technical decisions that respect user privacy by default.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "604": {
+    "skillId": "604",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Put CCPA compliance into practice by including required disclosures about data collection, user rights, and opt-out mechanisms in the privacy policy. Added specific sections for California residents explaining their rights and how to exercise them (contact form, email). Since I don't sell personal information or use invasive tracking, CCPA compliance was straightforward, but I still had to document it properly.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "608": {
+    "skillId": "608",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Avoided cookie consent banners entirely by choosing Plausible Analytics, which doesn't use cookies or track personal data. This was a deliberate privacy-by-design decision—instead of asking permission to track users, I chose tools that don't require permission in the first place. Documented this approach in the blog post as an alternative to the typical 'accept cookies or leave' pattern most sites use.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
+  "614": {
+    "skillId": "614",
+    "evidenceCount": 1,
+    "items": [
+      {
+        "type": "blog",
+        "title": "No Cookie Banners, No Tracking, No Shortcuts: My Privacy Policy Journey",
+        "description": "Applied privacy by design thinking from the start of the website build—choosing Plausible over Google Analytics, minimizing form fields, avoiding third-party tracking scripts. The principle was 'what's the least invasive way to get the data I need?' rather than 'what can I get away with?' Documented the entire decision making process in the blog post to show how privacy can be built into a site's architecture, not just its legal documents.",
+        "url": "https://andrewkelly.studio/blog/no-cookie-banners-no-tracking-no-shortcuts-my-privacy-policy-journey",
+        "date": "December 2025"
+      }
+    ]
+  },
   "696": {
     "skillId": "696",
     "evidenceCount": 1,

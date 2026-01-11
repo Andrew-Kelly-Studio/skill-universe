@@ -3674,8 +3674,8 @@
       {
         "id": 596,
         "name": "Marketing privacy basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 597,
@@ -3686,14 +3686,14 @@
       {
         "id": 598,
         "name": "GDPR fundamentals",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 599,
         "name": "CCPA basics",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 600,
@@ -3718,14 +3718,14 @@
       {
         "id": 603,
         "name": "GDPR compliance implementation",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 604,
         "name": "CCPA compliance implementation",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 605,
@@ -3748,8 +3748,8 @@
       {
         "id": 608,
         "name": "Cookie consent management",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 609,
@@ -3784,8 +3784,8 @@
       {
         "id": 614,
         "name": "Privacy by design principles",
-        "status": "not-yet",
-        "evidenceCount": 0
+        "status": "completed",
+        "evidenceCount": 1
       },
       {
         "id": 615,
